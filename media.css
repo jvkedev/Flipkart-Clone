@@ -120,4 +120,7 @@
     font-size: 18px;
     font-weight: bold;
   }
+  .carousel-inner img {
+    height: 15vh;
+  }
 }
