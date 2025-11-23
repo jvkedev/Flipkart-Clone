@@ -26,7 +26,7 @@ No backend or login system is included.
 Download or clone the project:
 
 ```bash
-git clone https://github.com/JVKE-KING/Flipkart-Clone.git
+git clone https://github.com//Flipkartjvkedev-Clone.git
 ```
 
 Open index.html in your browser.
