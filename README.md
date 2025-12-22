@@ -44,4 +44,4 @@ Open index.html in your browser.
 This project is for educational purposes only.
 
 ## Author
-### JVKE
+### JvkeDev
